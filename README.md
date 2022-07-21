@@ -171,4 +171,6 @@ m.hasil123@gmail.com
 
 Coded By Mr Venom
 
-**Full Changelog**: https://github.com/MrVenomYT/Portfolio-beta/commits/portfolio-beta
+[Heroku Preview](https://portfolio-beta-ver.herokuapp.com)
+[Replit Preview](https://www.hasil.tk)
+[Netlify Preview](https://portfolio-beta-version.netlify.app)
